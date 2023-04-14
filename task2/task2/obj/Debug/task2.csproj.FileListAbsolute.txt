@@ -1,0 +1,6 @@
+D:\oop\week1\task2\task2\bin\Debug\task2.exe.config
+D:\oop\week1\task2\task2\bin\Debug\task2.exe
+D:\oop\week1\task2\task2\bin\Debug\task2.pdb
+D:\oop\week1\task2\task2\obj\Debug\task2.csproj.CoreCompileInputs.cache
+D:\oop\week1\task2\task2\obj\Debug\task2.exe
+D:\oop\week1\task2\task2\obj\Debug\task2.pdb

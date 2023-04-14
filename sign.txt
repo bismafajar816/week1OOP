@@ -1,0 +1,10 @@
+jalil,123,Admin
+saad,123,Admin
+ali,123,admin
+umer,123,admin
+alia,123,admin
+kaka,123,admin
+kaka,123,admin
+ash,123,admin
+oop,123,admin
+saba,123,admin

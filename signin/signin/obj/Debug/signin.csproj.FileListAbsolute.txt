@@ -1,0 +1,7 @@
+D:\oop\week1\signin\signin\obj\Debug\signin.csproj.AssemblyReference.cache
+D:\oop\week1\signin\signin\obj\Debug\signin.csproj.CoreCompileInputs.cache
+D:\oop\week1\signin\signin\bin\Debug\signin.exe.config
+D:\oop\week1\signin\signin\bin\Debug\signin.exe
+D:\oop\week1\signin\signin\bin\Debug\signin.pdb
+D:\oop\week1\signin\signin\obj\Debug\signin.exe
+D:\oop\week1\signin\signin\obj\Debug\signin.pdb

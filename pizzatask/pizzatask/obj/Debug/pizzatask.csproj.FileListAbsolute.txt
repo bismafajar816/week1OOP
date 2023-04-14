@@ -1,0 +1,7 @@
+D:\oop\week1\pizzatask\pizzatask\bin\Debug\pizzatask.exe.config
+D:\oop\week1\pizzatask\pizzatask\bin\Debug\pizzatask.exe
+D:\oop\week1\pizzatask\pizzatask\bin\Debug\pizzatask.pdb
+D:\oop\week1\pizzatask\pizzatask\obj\Debug\pizzatask.csproj.AssemblyReference.cache
+D:\oop\week1\pizzatask\pizzatask\obj\Debug\pizzatask.csproj.CoreCompileInputs.cache
+D:\oop\week1\pizzatask\pizzatask\obj\Debug\pizzatask.exe
+D:\oop\week1\pizzatask\pizzatask\obj\Debug\pizzatask.pdb

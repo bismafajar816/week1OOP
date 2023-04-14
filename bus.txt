@@ -1,0 +1,7 @@
+lao,staff
+pao,driver
+aliha,staff
+kaka,staff
+laam,driver
+abd,dr
+jamil,dr
